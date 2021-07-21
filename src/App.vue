@@ -32,7 +32,7 @@
          <router-link to="/classes" class="nav-link" data-bs-dismiss="offcanvas">Классы</router-link>
          <router-link to="/abilities" class="nav-link" data-bs-dismiss="offcanvas">Атрибуты</router-link>
          <router-link to="/inventory" class="nav-link" data-bs-dismiss="offcanvas">Снаряжение</router-link>
-         <router-link to="/magic" class="nav-link" data-bs-dismiss="offcanvas">Магия</router-link>
+         <router-link to="/magic" class="nav-link" data-bs-dismiss="offcanvas">Заклинания</router-link>
          <router-link to="/alchemy" class="nav-link" data-bs-dismiss="offcanvas">Алхимия</router-link>
       </div>
    </div>

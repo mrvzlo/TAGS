@@ -21,3 +21,36 @@
 body {
    background-color: #eee;
 }
+
+.w-space-100 {
+   word-spacing: 100vw;
+}
+
+.border-colorful {
+   --border-color: black;
+   border-radius: 100px;
+   margin-bottom: 0.5rem;
+   border-color: var(--border-color);
+   box-shadow: 0 0 2pt 0pt var(--border-color), inset 0 0 2pt 0pt var(--border-color);
+
+   &.active {
+      font-weight: bold;
+      box-shadow: 0 0 3pt 2pt var(--border-color), inset 0 0 3pt 0pt var(--border-color);
+   }
+}
+
+.inactive {
+   filter: opacity(0.5);
+}
+
+.fas,
+.far,
+.fab {
+   line-height: inherit;
+}
+
+.circle-24 {
+   min-width: 24px;
+   height: 24px;
+   line-height: 24px;
+}

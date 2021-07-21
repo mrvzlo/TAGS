@@ -1,0 +1,277 @@
+﻿[
+  {
+    "Id": 3,
+    "Level": 1,
+    "Weight": 3,
+    "Name": "Дубина",
+    "Skill": 3,
+    "Bonuses": [
+      {
+        "Id": 1,
+        "Name": "Оглушение",
+        "Icon": "\uD83E\uDD15",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Level": 1,
+    "Weight": 4,
+    "Name": "Кирка",
+    "Skill": 3,
+    "Bonuses": [
+      {
+        "Id": 5,
+        "Name": "Копание",
+        "Icon": "\u26CF\uFE0F",
+        "Description": null,
+        "Type": 0,
+        "Usages": 4
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Level": 2,
+    "Weight": 3,
+    "Name": "Шпага",
+    "Skill": 1,
+    "Bonuses": []
+  },
+  {
+    "Id": 7,
+    "Level": 2,
+    "Weight": 4,
+    "Name": "Меч",
+    "Skill": 2,
+    "Bonuses": []
+  },
+  {
+    "Id": 8,
+    "Level": 2,
+    "Weight": 2,
+    "Name": "Стилет",
+    "Skill": 1,
+    "Bonuses": []
+  },
+  {
+    "Id": 9,
+    "Level": 2,
+    "Weight": 3,
+    "Name": "Посох",
+    "Skill": 3,
+    "Bonuses": []
+  },
+  {
+    "Id": 10,
+    "Level": 2,
+    "Weight": 5,
+    "Name": "Копьё",
+    "Skill": 1,
+    "Bonuses": []
+  },
+  {
+    "Id": 11,
+    "Level": 2,
+    "Weight": 3,
+    "Name": "Длинный лук",
+    "Skill": 8,
+    "Bonuses": []
+  },
+  {
+    "Id": 12,
+    "Level": 3,
+    "Weight": 4,
+    "Name": "Сабля",
+    "Skill": 2,
+    "Bonuses": []
+  },
+  {
+    "Id": 13,
+    "Level": 3,
+    "Weight": 5,
+    "Name": "Мечелом",
+    "Skill": 1,
+    "Bonuses": [
+      {
+        "Id": 2,
+        "Name": "Разоружение",
+        "Icon": "\uD83D\uDD90",
+        "Description": null,
+        "Type": 0,
+        "Usages": 2
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Level": 3,
+    "Weight": 4,
+    "Name": "Арбалет",
+    "Skill": 8,
+    "Bonuses": [
+      {
+        "Id": 3,
+        "Name": "Пробитие",
+        "Icon": "\uD83D\uDEE1",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Level": 3,
+    "Weight": 6,
+    "Name": "Булава",
+    "Skill": 3,
+    "Bonuses": [
+      {
+        "Id": 3,
+        "Name": "Пробитие",
+        "Icon": "\uD83D\uDEE1",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Level": 4,
+    "Weight": 6,
+    "Name": "Клеймор",
+    "Skill": 2,
+    "Bonuses": []
+  },
+  {
+    "Id": 18,
+    "Level": 4,
+    "Weight": 9,
+    "Name": "Молот",
+    "Skill": 3,
+    "Bonuses": [
+      {
+        "Id": 1,
+        "Name": "Оглушение",
+        "Icon": "\uD83E\uDD15",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Level": 4,
+    "Weight": 3,
+    "Name": "Томагавк",
+    "Skill": 4,
+    "Bonuses": [
+      {
+        "Id": 3,
+        "Name": "Пробитие",
+        "Icon": "\uD83D\uDEE1",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Level": 4,
+    "Weight": 8,
+    "Name": "Секира",
+    "Skill": 3,
+    "Bonuses": [
+      {
+        "Id": 3,
+        "Name": "Пробитие",
+        "Icon": "\uD83D\uDEE1",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Level": 4,
+    "Weight": 8,
+    "Name": "Алебарда",
+    "Skill": 3,
+    "Bonuses": [
+      {
+        "Id": 3,
+        "Name": "Пробитие",
+        "Icon": "\uD83D\uDEE1",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      },
+      {
+        "Id": 1,
+        "Name": "Оглушение",
+        "Icon": "\uD83E\uDD15",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Level": 2,
+    "Weight": 3,
+    "Name": "Длинный лук",
+    "Skill": 6,
+    "Bonuses": []
+  },
+  {
+    "Id": 24,
+    "Level": 3,
+    "Weight": 4,
+    "Name": "Арбалет",
+    "Skill": 6,
+    "Bonuses": [
+      {
+        "Id": 3,
+        "Name": "Пробитие",
+        "Icon": "\uD83D\uDEE1",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Level": 3,
+    "Weight": 5,
+    "Name": "Катана",
+    "Skill": 2,
+    "Bonuses": []
+  },
+  {
+    "Id": 1036,
+    "Level": 1,
+    "Weight": 1,
+    "Name": "Палка",
+    "Skill": 2,
+    "Bonuses": [
+      {
+        "Id": 1,
+        "Name": "Оглушение",
+        "Icon": "\uD83E\uDD15",
+        "Description": null,
+        "Type": 0,
+        "Usages": 6
+      }
+    ]
+  }
+]
